@@ -101,8 +101,8 @@
             display-name = "Base";
             sensor-bindings =
                 <&inc_dec_kp C_VOLUME_DOWN C_VOLUME_DOWN>,
-                <&enc_vol>,
-                <&enc_vol>,
+                <&inc_dec_kp C_VOLUME_DOWN C_VOLUME_DOWN>,
+                <&inc_dec_kp C_VOLUME_DOWN C_VOLUME_UP>,
                 <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>;
