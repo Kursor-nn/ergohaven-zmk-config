@@ -7,5 +7,5 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: k03_qube_ruen-ergohaven-zmk
 
-    - board: ergohaven
+  - board: ergohaven
     shield: settings_reset
